@@ -1,0 +1,17 @@
+{
+    "start_greeting": [
+        "Hi! My name is Caroline. I'm {0}'s virtual secretary."
+    ],
+    "start_roomKnowledge": [
+        "Here's what I know about this room:\n\tIt's name is {0}"
+    ],
+    "start_roomNameSet": [
+        "Room name has been set to {0}"
+    ],
+    "start_roomNameAlreadySet": [
+        "The name for this room has already been set. Contact {0} to fix this if you want to change it."
+    ],
+    "error_roomNotSet": [
+        "I currently don't know anything about this room. Please use /start <roomname> to have me remember it!"
+    ]
+}
